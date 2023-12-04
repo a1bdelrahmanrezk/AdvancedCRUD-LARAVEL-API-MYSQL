@@ -1,0 +1,11 @@
+{
+    "name": "RoleUser",
+    "alias": "roleuser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RoleUser\\app\\Providers\\RoleUserServiceProvider"
+    ],
+    "files": []
+}

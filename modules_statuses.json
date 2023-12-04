@@ -1,0 +1,9 @@
+{
+    "User": true,
+    "Post": true,
+    "Comment": true,
+    "Profile": true,
+    "Role": true,
+    "RoleUser": true,
+    "Mail": true
+}
