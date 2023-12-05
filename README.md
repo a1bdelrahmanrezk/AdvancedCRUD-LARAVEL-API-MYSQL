@@ -1,5 +1,4 @@
 # Advanced CRUD Api
-[user - profile - post - comment - roles]
 
 ### Steps Cloning laravel project from github
 <ol>
